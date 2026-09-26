@@ -35,7 +35,7 @@
 <!-- Live stat badges -->
 <img src="https://komarev.com/ghpvc/?username=syedtaj7&label=PROFILE%20VISITORS&color=00F7FF&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/syedtaj7?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=FF00C8&label=REPOS&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsyedtaj7"/>
+<img src="https://img.shields.io/github/stars/syedtaj7?label=STARS&style=for-the-badge&color=FF00C8&logo=github"/>
 
 </div>
 
@@ -48,20 +48,7 @@
 
 ## ⚡ `whoami`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Syed Tajuddin                                               │
-│                                                              │
-│  💻 Associate Software Development Engineer @ MetLife        │
-│  🎓 Electronics & Communication Engineer                     │
-│  🤖 Software + AI Builder                                    │
-│  📡 Wireless / RIS / 5G / 6G Researcher                     │
-│  🔧 Embedded Systems Explorer                                │
-│  🌐 Full-Stack / Data / AI Experimenter                      │
-│                                                              │
-│  "I like turning random ideas into things that actually run." │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="assets/whoami-terminal.svg" width="720"/>
 
 <!-- Random dev quote, refreshes on every profile load -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
@@ -78,31 +65,7 @@
 
 ### 🚀 Current Mode
 
-```text
-[██████████████████████████████] 100%
-
-BUILDING
-├── Software
-├── AI applications
-├── Data tools
-├── Embedded systems
-├── Wireless communication systems
-└── Random experiments at 2AM
-
-LEARNING
-├── Advanced software engineering
-├── AI / ML
-├── System design
-├── Cloud & deployment
-└── Computer science
-
-EXPLORING
-├── 5G / 6G
-├── Reconfigurable Intelligent Surfaces
-├── Computer Vision
-├── Generative AI
-└── Product engineering
-```
+<img src="assets/current-mode-terminal.svg" width="100%"/>
 
 </td>
 
@@ -242,19 +205,7 @@ Wireless Communication
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🤖 AI                ████████████████████░░░  90%         ║
-║   💻 Software          █████████████████████░  95%         ║
-║   🌐 Full Stack        █████████████████░░░░░  80%         ║
-║   📊 Data              ████████████████░░░░░░  75%         ║
-║   📡 Wireless          ███████████████░░░░░░░  70%         ║
-║   🔧 Embedded          ██████████████░░░░░░░░  65%         ║
-║   🧠 System Design     ████████████░░░░░░░░░  60%         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="assets/skill-bars.svg" width="720"/>
 
 </div>
 
@@ -337,22 +288,6 @@ Document Chat • CSV Visualization • Airboard • Text-to-Speech • Data Exp
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedtaj7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="170"/>
 
-<br/><br/>
-
-<!-- Trophy case -->
-<img src="https://github-profile-trophy.vercel.app/?username=syedtaj7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Activity Feed
-
-<div align="center">
-
-<!-- Interactive-feeling activity graph (animated on load) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedtaj7&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FF00C8&hide_border=true" width="95%"/>
-
 </div>
 
 ---
@@ -383,25 +318,7 @@ Document Chat • CSV Visualization • Airboard • Text-to-Speech • Data Exp
 
 > **Think → Build → Break → Debug → Learn → Repeat**
 
-```text
-Idea
- ↓
-"Can I build this?"
- ↓
-Build it anyway
- ↓
-Something explodes
- ↓
-Debug for 4 hours
- ↓
-"It works!"
- ↓
-Add 7 more features
- ↓
-Break everything again
- ↓
-Repeat.
-```
+<img src="assets/philosophy-terminal.svg" width="520"/>
 
 </div>
 
@@ -411,20 +328,7 @@ Repeat.
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│  🚀 Builder                             │
-│  🧠 Learner                             │
-│  📡 Engineer                            │
-│  🤖 AI Enthusiast                       │
-│  🔧 Hardware Nerd                       │
-│  🌐 Product Explorer                    │
-│  🎤 Community / IEEE Leader             │
-│  🧪 Professional Experimenter           │
-│                                         │
-└─────────────────────────────────────────┘
-```
+<img src="assets/beyond-code-terminal.svg" width="520"/>
 
 </div>
 
